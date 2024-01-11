@@ -1,0 +1,46 @@
+body{
+width: 1366px;
+height: 768px;
+background: rgba(233, 142, 6, 0.75);
+display: flex;
+justify-content: center;
+align-items: center;
+flex-shrink: 0;
+}
+#sc1{
+margin-top:150px;
+width: 598px;
+height: 900px;
+background: #F6D10D;
+float: left;
+clear: both;
+}
+#sc2{
+    margin-left: 50px;
+    margin-top: -500px;
+    width: 379px;
+    height: 200px;
+    background: #0C8611;
+    float: left;
+    clear: both;
+
+    
+}
+#sc3{
+    margin-left: 25px;
+    margin-top: -500px;
+    width: 379px;
+    height: 200px;
+    background: #0C8611;
+    float: left;
+    
+
+}
+#sc4{
+    background: #0C8611;
+    width: 379px;
+    height: 200px;
+    float: left;
+
+}
+
